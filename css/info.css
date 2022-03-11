@@ -89,3 +89,23 @@
       margin: 0;
    }
 }
+@media screen and (min-width: 1440px) {
+   .before-section {
+      padding: 20rem 0;
+   }
+}
+@media screen and (min-width: 1500px) {
+   .before-section {
+      padding: 30rem 0;
+   }
+}
+@media screen and (min-width: 1900px) {
+   .before-section {
+      padding: 40rem 0;
+   }
+}
+@media screen and (min-width: 2500px) {
+   .before-section {
+      padding: 60rem 0;
+   }
+}
